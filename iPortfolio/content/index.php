@@ -98,7 +98,7 @@
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <h2>Raka Argya Cindaga</h2>
-        <p>I'm <span class="typed" data-typed-items=" Web Developer, Freelancer">Web Developer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+        <p>I'm <span class="typed" data-typed-items=" Web Developer, Freelancer, Industri Kuliner">Web Developer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
       </div>
 
     </section><!-- /Hero Section -->
@@ -109,7 +109,9 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>About</h2>
-        <p> saya seorang junior web developer dengan fokus pada pembuatan situs web responsif menggunakan HTML, CSS, dan JavaScript. Saya memiliki keahlian dalam menggunakan framework seperti Bootstrap untuk meningkatkan efisiensi pengembangan. Saya bersemangat untuk terus belajar dan mengembangkan keterampilan teknis saya dalam menciptakan pengalaman pengguna yang intuitif dan menarik.</p>
+        <p> saya seorang junior web developer dengan fokus pada pembuatan situs web responsif menggunakan HTML, CSS, dan JavaScript.
+          Saya memiliki keahlian dalam menggunakan framework seperti Bootstrap untuk meningkatkan efisiensi pengembangan.
+        </p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -119,11 +121,9 @@
             <img src="assets/img/aliando sarap.jpg.jfif" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 content">
-            <h2>UI/UX Designer &amp; Web Developer.</h2>
+            <!-- <h2>&amp; Web Developer.</h2> -->
             <p class="fst-italic py-3">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore
-              magna aliqua.
+              Saya bersemangat untuk terus belajar dan mengembangkan keterampilan teknis saya dalam menciptakan pengalaman pengguna yang intuitif dan menarik.
             </p>
             <div class="row">
               <div class="col-lg-6">
@@ -143,11 +143,11 @@
                 </ul>
               </div>
             </div>
-            <p class="py-3">
+            <!-- <p class="py-3">
               Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et
               ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
               Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
-            </p>
+            </p> -->
           </div>
         </div>
 
@@ -206,7 +206,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Skills</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>keterampilan yaang saya miliki dibidang website dan dll, meliputi</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -275,9 +275,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Resume</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-          consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-          in iste officiis commodi quidem hic quas.</p>
+        <p>dokumen singkat berupa rangkuman tentang pengalaman kerja hingga riwayat pendidikan.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -288,66 +286,47 @@
             <h3 class="resume-title"></h3>
 
             <div class="resume-item pb-0">
-              <h4>Brandon Johnson</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and
-                  developing user-centered digital/print marketing material from initial concept to final, polished
-                  deliverable.</em></p>
+              <h4>Rangkuman pengalaman dibidang kuliner </h4>
+              <p><em>saya seorang dengan pengalaman dalam industri kuliner & memiliki pengalaman praktis yang kuat sebagai koki di restoran ternama.
+                  Memiliki komitmen terhadap standar profesionalisme tinggi dan
+                  kualitas dalam setiap tugas yang diemban.</em></p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>Tmbs (Hokben)</li>
               </ul>
-            </div><!-- Edn Resume Item -->
 
-            <h3 class="resume-title">Education</h3>
-            <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui
-                ut dignissimos deleniti nerada porti sand markend</p>
-            </div><!-- Edn Resume Item -->
+              <h4>Rangkuman pengalaman dibidang sosial </h4>
+              <p><em>saya seorang dengan pengalaman dibidang sosialisasi & memeliki pengetahuan pendekatan/komunikasi dengan baik dengan sekitar.
+                  Memiliki rasa percaya diri terhadap kemampuan dalam berbicara.
+                </em></p>
+              <ul>
+                <li>Humas (Yayasan wahdi center)</li>
+              </ul>
 
-            <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius
-                unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart
-                dila</p>
-            </div><!-- Edn Resume Item -->
+            </div>
+            <!-- Edn Resume Item -->
+
 
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <h3 class="resume-title">Professional Experience</h3>
+
+            <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
-              <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production
-                  communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the
-                  project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the
-                  design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-              </ul>
-            </div><!-- Edn Resume Item -->
+              <h4>PPKPI, Jakarta Timur</h4>
+              <h5>xxxx - xxxx</h5>
+              <p><em>Junior Web Developer</em></p>
+              <p> latar belakang pendidikan di bidang teknologi informasi
+                dan pengalaman dalam pengembangan aplikasi web.</p>
+            </div>
+            <!-- Edn Resume Item -->
 
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
-              <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and
-                  advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
-              </ul>
-            </div><!-- Edn Resume Item -->
+              <h4>BBPLK, Bekasi</h4>
+              <h5>xxxx - xxxxx</h5>
+              <p><em>Operator Internet Of Thing</em></p>
+              <p>Menggunakan Aplikasi Arduino untuk membuat program embeded sistem berbasis OIT</p>
+            </div>
+            <!-- Edn Resume Item -->
 
           </div>
 
